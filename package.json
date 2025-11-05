@@ -1,0 +1,19 @@
+{
+  "name": "@aleks-72/ajs-platform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aleks-72/ajs-platform.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aleks-72/ajs-platform/issues"
+  },
+  "homepage": "https://github.com/Aleks-72/ajs-platform#readme"
+}
